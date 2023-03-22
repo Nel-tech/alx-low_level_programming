@@ -1,4 +1,4 @@
-#include "Favour.Lee"
+#include "main.h"
 
 /**
  * main - prints FavourLee
